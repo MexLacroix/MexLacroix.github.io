@@ -1,0 +1,13 @@
+body {
+	background: lightgreen;
+}
+
+@font-face{
+    font-family: "ZeldaFont";
+    src: url(TLOZ-Links-Awakening.ttf);
+}
+
+
+h1{
+	font-family: 'ZeldaFont', sans-serif;
+}
